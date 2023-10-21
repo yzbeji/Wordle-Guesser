@@ -4,7 +4,7 @@
 
 Have you ever played Wordle? (NO!)
 
-It is a game which gives you 5 chances to guess a random word from their list of words. Each time you enter a word, the game will tell you some usefull information based on colors:
+It is a game which gives you 5 chances to guess a random word from their list of words. Each time you enter a word, the game will tell you some useful information based on colors:
 
     1. If the letter is green, it means that you have got the position and letter correct
     2. If the letter is grey, it means that the letter does not exist in the correct word
