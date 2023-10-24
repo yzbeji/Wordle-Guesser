@@ -21,7 +21,7 @@ Approximately guesses: #6.511 (Total words: 14855)
 
 UPDATES: 
 
-(1) - Made the algorithm to get more information per word tried than last time, now the actual number is: #5.820
+(1) - Made the algorithm to get more information per word tried than last time, now the actual number is: #4.66
     - You can find it in the files with V2.0
 
 
