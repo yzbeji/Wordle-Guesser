@@ -1,6 +1,7 @@
-# Wordle Guesser Algorithm V1.0
+# Wordle Guesser Algorithm V2.0
 
 <-- THERE WILL BE UPDATES -->
+<--    NEW UPDATE (1)     --> 
 
 Have you ever played Wordle? (NO!)
 
@@ -16,4 +17,11 @@ Let's name this algorithm as 'robot'. This robot will try its best to find the c
 
 We all know that computers are fast, they can execute functions and resolve ecuations in a rapid way. You'll find also commentary in the code itself that explains what it is doing. I decided to use Python, because I wanted to improve myself at this programming language and I also consider that it is easy to use and understand. I also applied a very exciting theory learned at faculty, named 'Information Theory'. Based on this theory, everytime the robot tries a word, it, of course, obtains information that will lead him to the correct word sooner or later. Also, it calculates the score for every word and selects the one that suits the best. You'll find two algorithms: one that it generates a random word from the list and the other one which is for every possible word (you'll have available also the .txt file to see, so you don't have to run it). 
 
-UPDATES: #NULL
+Approximately guesses: #6.511 (Total words: 14855)
+
+UPDATES: 
+
+(1) - Made the algorithm to get more information per word tried than last time, now the actual number is: #5.820
+    - You can find it in the files with V2.0
+
+
